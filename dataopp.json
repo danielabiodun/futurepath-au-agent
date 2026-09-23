@@ -1,0 +1,126 @@
+[
+  {
+    "id": "opp-cyber-01",
+    "title": "Certificate IV in Cyber Security (22603VIC / 22334VIC)",
+    "provider": "TAFE NSW / TAFE Digital",
+    "category": "Vocational Course",
+    "location": "Online / NSW Campuses",
+    "description": "An entry-level vocational qualification providing practical foundational skills in network security, threat analysis, website security, and incident response.",
+    "prerequisites": [
+      "Australian Year 12 completion OR Certificate III qualification, or equivalent basic digital literacy"
+    ],
+    "eligible_cohorts": [
+      "Australian Citizens and Permanent Residents",
+      "Fee-Free TAFE subsidies available for eligible Aboriginal and Torres Strait Islander students"
+    ],
+    "duration": "12 months (full-time) or 24 months (part-time)",
+    "application_deadline": "2027-01-25",
+    "study_commencement": "2027-02-15",
+    "next_steps": [
+      "1. Submit proof of Year 12 or equivalent.",
+      "2. Complete TAFE core skills diagnostic assessment.",
+      "3. Apply for Smart and Skilled / Fee-Free TAFE fee waiver."
+    ],
+    "source_url": "https://www.tafensw.edu.au/course-areas/information-technology/courses/certificate-iv-in-cyber-security"
+  },
+  {
+    "id": "opp-cyber-02",
+    "title": "Australian Government Digital & Cyber Apprenticeship Program",
+    "provider": "Australian Public Service Commission (APSC) / Digital Transformation Agency",
+    "category": "Apprenticeship / Traineeship",
+    "location": "Canberra, Sydney, Melbourne, Brisbane (Hybrid options)",
+    "description": "A paid 2-year program where you work in an Australian Government department (like ASD, Home Affairs, or ATO) while studying a Certificate IV or Diploma in Cyber Security with all tuition covered.",
+    "prerequisites": [
+      "Australian Citizenship (mandatory for security clearance)",
+      "Currently completing or completed Year 12 (or mature-age equivalent)",
+      "Ability to obtain and maintain an Australian Government Baseline or NV1 security clearance"
+    ],
+    "eligible_cohorts": [
+      "First Nations Affirmative Measures stream available",
+      "Australian Citizens"
+    ],
+    "duration": "24 months (full-time paid employment + study)",
+    "application_deadline": "2026-10-31",
+    "study_commencement": "2027-02-01",
+    "next_steps": [
+      "1. Check Australian citizenship status.",
+      "2. Prepare resume and academic transcript.",
+      "3. Submit online application with First Nations affirmative measure confirmation (if applicable).",
+      "4. Complete online cognitive and problem-solving assessment."
+    ],
+    "source_url": "https://www.apsc.gov.au/working-in-the-aps/aps-entry-programs/digital-careers"
+  },
+  {
+    "id": "opp-cyber-03",
+    "title": "Australian Signals Directorate (ASD) Cyber Indigenous Cadre / Cadetship",
+    "provider": "Australian Signals Directorate (ASD)",
+    "category": "Cadetship / Employment Pathway",
+    "location": "Canberra, ACT / Brisbane / Perth",
+    "description": "Targeted pathway for First Nations students enrolled in or commencing an IT/Cyber tertiary degree or advanced diploma. Provides paid summer work placements, study allowances, mentoring, and guaranteed ongoing graduate employment.",
+    "prerequisites": [
+      "Enrolled in or accepted into a recognised Australian undergraduate degree or diploma in Cyber Security, Computer Science, or Software Engineering",
+      "Australian Citizenship",
+      "Ability to attain a Top Secret Positive Vetting (TSPV) security clearance"
+    ],
+    "eligible_cohorts": [
+      "Aboriginal and Torres Strait Islander university or higher education students"
+    ],
+    "duration": "Duration of degree (annual summer placements + ongoing role upon graduation)",
+    "application_deadline": "2026-11-15",
+    "study_commencement": "2026-12-01",
+    "next_steps": [
+      "1. Provide confirmation of university enrollment or letter of offer.",
+      "2. Provide Confirmation of Aboriginal and/or Torres Strait Islander heritage.",
+      "3. Pass background check and begin security clearance processing."
+    ],
+    "source_url": "https://www.asd.gov.au/careers/students-and-graduates"
+  },
+  {
+    "id": "opp-cyber-04",
+    "title": "Indigenous Digital Skills & Mentorship Pre-Pathway",
+    "provider": "Deadly Coders / Goanna Education",
+    "category": "Pre-training / Mentorship",
+    "location": "Online (National)",
+    "description": "An introductory, culturally grounded digital skills boot camp introducing networking basics, Linux fundamentals, cyber safety, and python scripting. Designed for beginners with no prior IT experience.",
+    "prerequisites": [
+      "No formal education prerequisites required",
+      "Access to a computer with internet connection"
+    ],
+    "eligible_cohorts": [
+      "Aboriginal and Torres Strait Islander youth and mature-age career changers"
+    ],
+    "duration": "8 weeks (flexible, part-time, ~6 hours/week)",
+    "application_deadline": "Rolling admissions (intakes every 2 months)",
+    "study_commencement": "First Monday of every even month",
+    "next_steps": [
+      "1. Register interest on community portal.",
+      "2. Attend informal 20-minute welcome video call with an Indigenous mentor.",
+      "3. Receive equipment loan support if needed."
+    ],
+    "source_url": "https://goannaeducation.com.au/indigenous-pathways"
+  },
+  {
+    "id": "opp-cyber-05",
+    "title": "CSIRO Indigenous STEM & Cyber Scholarship",
+    "provider": "CSIRO (Commonwealth Scientific and Industrial Research Organisation)",
+    "category": "Scholarship & Mentoring",
+    "location": "National / Partner Universities",
+    "description": "Financial scholarship ($10,000 per year) and technical mentoring with CSIRO Data61 cybersecurity researchers to assist First Nations students pursuing cyber and data degrees.",
+    "prerequisites": [
+      "Commencing or currently enrolled in full-time study in an eligible cyber security or computer science degree at an Australian university",
+      "Satisfactory academic progress (passing grade or better)"
+    ],
+    "eligible_cohorts": [
+      "Aboriginal and Torres Strait Islander tertiary students"
+    ],
+    "duration": "Up to 3 years of full-time undergraduate study",
+    "application_deadline": "2027-02-28",
+    "study_commencement": "Semester 1, 2027",
+    "next_steps": [
+      "1. Complete online CSIRO scholarship application form.",
+      "2. Attach proof of enrollment and statement of career goals.",
+      "3. Attach academic transcript and reference from a teacher, elder, or community leader."
+    ],
+    "source_url": "https://www.csiro.au/en/careers/indigenous-opportunities"
+  }
+]
