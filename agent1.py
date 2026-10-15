@@ -27,7 +27,15 @@ agent = create_deep_agent(
     tools = [search_opportunites]
 )
 
-user_prompt = "What opportunites are avaliable for someone with no IT experience"
+def run_agent(user_message: str) -> str:
+    response = agent.invoke({
+        "messages": [{"role": "user", "content": user_message}]
+    })
+    content = response["messages"][-1].content
+    if isinstance(content, list):
+        return content[0].get("text", str(content))
+    return str(content)
 
-response = agent.invoke({"messages": [{"role": "user", "content": user_prompt}]})
-print(response["messages"][-1].content[0]["text"])
+# optional: still test from terminal
+if __name__ == "__main__":
+    print(run_agent("What opportunities are available for someone with no IT experience"))
